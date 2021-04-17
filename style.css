@@ -1,0 +1,32 @@
+h2 {
+  color: red;
+	font-size: 20px;
+	font-family: Helvetica;
+}
+h1 {
+  color: red;
+	position: center;
+	font-size: 50px;
+	font-family: Helvetica;
+}
+body {
+	color: rgb(50, 50, 50);     /* Text color */
+	background-color: #DFDDDF;  /* Background color */
+	font-family: Helvetica;
+	font-size:17px;
+}
+
+a {
+text-decoration: none;
+color: red;
+}
+a:hover {
+color: yellow;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+.img-bordered {
+  border: 10px solid red;
+}
